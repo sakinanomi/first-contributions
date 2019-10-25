@@ -1,6 +1,6 @@
 # Additional information
 
-We assume that you have already finished with the basic tutorial before coming here. The additional information will give you some information about advanced Git techniques.
+We assume that you have already finished with some basic tutorial before coming here. The additional information will give you some information about advanced Git techniques.
 
 ### [Amending a commit](amending-a-commit.md)
 This document provides information about how to amend a commit on the remote repository.
